@@ -1,2 +1,2 @@
-FROM ghcr.io/unsinnews/gpt-image-2-gateway-playground:sha-771c649
+FROM ghcr.io/unsinnews/gpt-image-2-gateway-playground:latest
 USER 10014
